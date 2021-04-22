@@ -23,11 +23,22 @@ Everyone knows the importance of note keeping. We can keep our personal informat
 ```bash
 
  ```                      
-
 ## Making :point_down:
-This flutter application is totally responsive. When we change the orientation the app fits in that. I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) and [Dart](https://dart.dev/) in front end and backend. I have designed this using [Materials ui](https://material-ui.com/). I have loaded the entire app in main.dart.
+This flutter application is totally responsive. When we change the orientation the app fits in that. I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) and [Dart](https://dart.dev/) in front end and backend. I have designed this using [Materials ui](https://material-ui.com/). I have created database using [sql](https://en.wikipedia.org/wiki/SQL) where the notes are kept in table. I have loaded the entire app in main.dart.
 ## Screenshots :point_down: 
 <div align="center">
+ 
+<a href="n1.jpeg"><img src="n1.jpeg" width="250" height= "450"></a> <a href="n2.jpeg"><img src="n2.jpeg" width="250" height= "450"></a>
+
+<a href="n3.jpeg"><img src="n3.jpeg" width="250" height= "450"></a> <a href="n4.jpeg"><img src="n4.jpeg" width="250" height= "450"></a>
+
+<a href="n5.jpeg"><img src="n5.jpeg" width="250" height= "450"></a> 
+
+<a href="n6.jpeg"><img src="n6.jpeg" width="400" height= "250"></a> <a href="n7.jpeg"><img src="n7.jpeg" width="400" height= "250"></a>
+
+<a href="n8.jpeg"><img src="n8.jpeg" width="400" height= "250"></a> <a href="n9.jpeg"><img src="n9.jpeg" width="400" height= "250"></a>
+
+<a href="n10.jpeg"><img src="n10.jpeg" width="400" height= "250"></a> <a href="n11.jpeg"><img src="n11.jpeg" width="400" height= "250"></a>
 
 </div>
 
