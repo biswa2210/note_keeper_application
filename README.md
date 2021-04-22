@@ -1,6 +1,6 @@
 # NOTE_KEEPER_APPLICATION :star_struck:
 
-[![Generic badge](https://img.shields.io/badge/advance-Flutter-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Dart-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Dart-Math-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/android-ios-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Material-UI-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/custom-widgets-orange)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/advance-Flutter-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Dart-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Dart-Math-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/android-ios-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Material-UI-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/custom-widgets-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/database-SQL-yellow)](https://shields.io/)
 
 ***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
@@ -21,7 +21,24 @@ User just has to add notes. He can edit, delete notes whenever he wants. He can 
 Everyone knows the importance of note keeping. We can keep our personal informations here, this makes it an important app. In digital world everyone prefers to keep note in a safe app.
 ## Folder Structure :point_down:
 ```bash
-
+note_keeper_application
+     ├── assets 
+     |     ├── fonts
+     |     |     └── CB.ttf
+     |     └── images
+     |           ├── sadface.png
+     |           ├── spsc.jpg
+     |           └── spsc.png
+     └── lib
+           ├── models
+           |     └── Node.dart
+           ├── screens
+           |     ├── note_detail.dart
+           |     └── note_list.dart
+           ├── utils
+           |     └── database_helper.dart
+           ├── home.dart
+           └── main.dart
  ```                      
 ## Making :point_down:
 This flutter application is totally responsive. When we change the orientation the app fits in that. I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) and [Dart](https://dart.dev/) in front end and backend. I have designed this using [Materials ui](https://material-ui.com/). I have created database using [sql](https://en.wikipedia.org/wiki/SQL) where the notes are kept in table. I have loaded the entire app in main.dart.
