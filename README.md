@@ -81,11 +81,9 @@ samples, guidance on mobile development, and a full API reference.
 
 <div align="center">
  
-<a href="pics/n1.jpeg"><img src="pics/n1.jpeg" width="300" height= "500"></a> <a href="pics/n2.jpeg"><img src="pics/n2.jpeg" width="300" height= "500"></a>
+<a href="pics/n1.jpeg"><img src="pics/n1.jpeg" width="300" height= "500"></a> <a href="pics/n2.jpeg"><img src="pics/n2.jpeg" width="300" height= "500"></a> <a href="pics/n3.jpeg"><img src="pics/n3.jpeg" width="300" height= "500"></a>
 
-<a href="pics/n3.jpeg"><img src="pics/n3.jpeg" width="300" height= "500"></a> <a href="pics/n4.jpeg"><img src="pics/n4.jpeg" width="300" height= "500"></a>
-
-<a href="pics/n8.jpeg"><img src="pics/n8.jpeg" width="300" height= "500"></a> <a href="pics/n12.jpeg"><img src="pics/n12.jpeg" width="300" height= "500"></a>
+<a href="pics/n4.jpeg"><img src="pics/n4.jpeg" width="300" height= "500"></a> <a href="pics/n8.jpeg"><img src="pics/n8.jpeg" width="300" height= "500"></a> <a href="pics/n13.jpeg"><img src="pics/n13.jpeg" width="300" height= "500"></a>
 
 <a href="pics/n6.jpeg"><img src="pics/n6.jpeg" width="400" height= "300"></a> <a href="pics/n7.jpeg"><img src="pics/n7.jpeg" width="400" height= "300"></a>
 
