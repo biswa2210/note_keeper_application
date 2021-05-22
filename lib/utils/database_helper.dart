@@ -4,6 +4,11 @@ import 'dart:io';
 import 'package:path_provider/path_provider.dart';
 import 'package:note_keeper_app/models/note.dart';
 import 'package:intl/intl.dart';
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 
 class DatabaseHelper {
 
