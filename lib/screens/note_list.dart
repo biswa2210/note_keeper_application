@@ -6,6 +6,11 @@ import 'package:note_keeper_app/utils/database_helper.dart';
 import 'package:note_keeper_app/screens/note_detail.dart';
 import 'package:sqflite/sqflite.dart';
 
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 
 class NoteList extends StatefulWidget {
 
